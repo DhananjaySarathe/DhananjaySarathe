@@ -35,7 +35,7 @@ My work spans:
 On [ChilledBeer](https://www.youtube.com/@ChilledBeer), I share practical AI workflows for coding, video creation, and everyday work: the setups, results, costs, and things that go wrong.
 
 <a href="https://www.youtube.com/watch?v=WUhBkOJsEIc">
-  <img src="https://i.ytimg.com/vi/WUhBkOJsEIc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&amp;rs=AOn4CLCHyfMdScY2SvtQt_kgt_4RRPBxNQ" width="680" alt="Watch My Claude Video Editing Setup Is Now Yours (GitHub Repo) on ChilledBeer.">
+  <img src="https://i.ytimg.com/vi/WUhBkOJsEIc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&amp;rs=AOn4CLCHyfMdScY2SvtQt_kgt_4RRPBxNQ" width="520" alt="Watch My Claude Video Editing Setup Is Now Yours (GitHub Repo) on ChilledBeer.">
 </a>
 
 **[My Claude Video Editing Setup Is Now Yours (GitHub Repo)](https://www.youtube.com/watch?v=WUhBkOJsEIc)**  
