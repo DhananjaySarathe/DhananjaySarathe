@@ -1,9 +1,9 @@
 <p>
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/header-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/header-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img src="./assets/header-light.svg" width="100%" alt="Hi, I'm Dhananjay Sarathe. Founding engineer, curious builder. Bengaluru, India.">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/header-mobile-dark.svg?v=5323d2e">
+  <source media="(max-width: 600px)" srcset="./assets/header-mobile-light.svg?v=5323d2e">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg?v=5323d2e">
+  <img src="./assets/header-light.svg?v=5323d2e" width="100%" alt="Hi, I'm Dhananjay Sarathe. Founding engineer, curious builder. Bengaluru, India.">
 </picture>
 </p>
 
